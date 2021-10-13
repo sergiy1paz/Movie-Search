@@ -1,0 +1,11 @@
+.th_hover:hover {
+    background: rgb(233, 231, 231);
+}
+
+.th_hover > span {
+    color: grey;
+}
+
+span.active-arrow {
+    color: black;
+}
